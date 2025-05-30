@@ -45,7 +45,7 @@ app-example
 expo-env.d.ts
 
 # React Native
-node_modules/
+
 *.log
 npm-debug.*
 yarn-debug.*
